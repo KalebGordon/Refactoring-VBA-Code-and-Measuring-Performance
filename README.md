@@ -18,7 +18,7 @@ The top three highest traded stocks of 2018 were ENPH at 607,473,500 trades, SPW
 positive return in the data set are also among the top three highest traded. RUN had a return of 84.0% and ENPH had a return of 81.9%. Based on this analysis, the best 
 stocks to invest in would be ENPH or RUN, with ENPH having a higher total daily volume and RUN having a higher return. 
 
-![image](Refactoring-VBA-Code-and-Measuring-Performance/Resources/VBA_Challenge_2017.PNG)
+![image](Refactoring-VBA-Code-and-Measuring-Performance/Resources/VBA_Challenge_2017.png)
 
 ![image](Refactoring-VBA-Code-and-Measuring-Performance/Resources/VBA_Challenge_2018.PNG)
 
