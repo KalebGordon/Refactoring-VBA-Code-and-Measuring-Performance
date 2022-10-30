@@ -20,7 +20,7 @@ stocks to invest in would be ENPH or RUN, with ENPH having a higher total daily 
 
 In order to pull this data from the original data set, we had to loop through each row on our spreadsheet and extrapolate values to put it into the new spreadsheet. For the total daily volume, we made a variable, set it to zero at the beginning of each iteration, then added each value in the total daily volume cell for each stock. Afterwards, we checked if the row beforehand was a different stock. Then, we would set the starting price of that stock if it fulfilled that parameter. The same method was used for the ending price, but we instead checked if the next row was a different stock. 
 
-Our coding that we used is within the VBA in the excel sheet under the appropriate comments. 
+Our coding that we used is within this file: [Code](https://github.com/KalebGordon/Refactoring-VBA-Code-and-Measuring-Performance/blob/main/VBA_Challenge.vbs)
 
 
 2017 Analysis             |  2018 Analysis
